@@ -24,11 +24,11 @@
   (Applying Gaussian Blur/Thresholding)
   <code>$ python ocr.py -image image.jpg -preprocess blur</code>
   
-#### SOURCE IMAGE  
-  ![image](TEST_IMAGES/OCR4.jpg)
+#### OUTPUT
+  ![image](TEST_IMAGES/output1.jpg)
   
-#### RESULTANT TRANSFER IMAGE  
-  ![image](TEST_IMAGES/OCR3.jpg)
+#### OUTPUT  
+  ![image](TEST_IMAGES/output2.jpg)
   
   
   
